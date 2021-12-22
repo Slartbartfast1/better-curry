@@ -1,1 +1,1 @@
-export * from './src/renderIf';
+export * from "./src/renderIf";
